@@ -16,3 +16,7 @@ print("Mint Chocolate"[5:14])
 #인덱스 5부터 14까지인 Chocolate 만 출력이 된다.
 print("Mint Chocolate"[5:])
 #위와 같이 마지막 인덱스를 적지 않아도 자동으로 Chocolate 만 출력이 된다.
+
+print("Mint Chocolate"[:])
+print("Mint Chocolate"[5:])
+# 콜론만 넣을 경우 처음부터 끝까지 슬라이싱 하라는 의미이므로 Mint Chocolate 전체가 출력 된다.
