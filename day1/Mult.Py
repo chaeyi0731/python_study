@@ -1,6 +1,6 @@
 #곱셈 연산자 
 
-print("chocolate "*2)
+print("chocolat "*2)
 
 #문자열을 두번 출력한다 출력결과: chocolate chocolate
 
