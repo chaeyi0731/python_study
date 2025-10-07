@@ -20,3 +20,15 @@ print("Mint Chocolate"[5:])
 print("Mint Chocolate"[:])
 print("Mint Chocolate"[5:])
 # 콜론만 넣을 경우 처음부터 끝까지 슬라이싱 하라는 의미이므로 Mint Chocolate 전체가 출력 된다.
+
+#슬라이싱 간격 설정
+#슬라이스 구문에 step을 추가해 특정 간격으로 문자를 선택 할 수 있다.
+# Step을 2로 지정하면 문자를 2개마다 하나씩 선택한다.
+
+#0부터 13까지의 2의 간격으로 선택
+print("Mint Chocolate"[0:14:2])
+#결과 Mn hclt
+
+#처음부터 끝까지 5의 간격으로 선택
+print("Mint Chocolate"[::5])
+#결과 MCl
