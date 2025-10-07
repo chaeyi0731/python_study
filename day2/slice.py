@@ -32,3 +32,5 @@ print("Mint Chocolate"[0:14:2])
 #처음부터 끝까지 5의 간격으로 선택
 print("Mint Chocolate"[::5])
 #결과 MCl
+
+#step을 0으로 지정하면 오류가 난다.
