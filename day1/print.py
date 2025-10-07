@@ -28,3 +28,16 @@ print(type(True))
 # <class 'int'>
 # <class 'str'>
 #<class 'bool'> 
+
+# 예제 문제 
+print("박서준")
+print("남자")
+print("대한민국")
+print("27")
+print("양념치킨")
+
+#실행 결과 박서준
+#남자
+#대한민국
+#27
+#양념치킨
