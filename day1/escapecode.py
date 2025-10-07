@@ -42,3 +42,21 @@ print(len("Hello World!"))
 
 #결과 12
 #빈칸도 숫자로 계산하기 때문이다.
+
+#예시문제 
+print('Apple은"사과를" 말합니다.')
+print("\'Hello World\'")
+print("\"안녕 나는 철수라고 해.\"")
+print(len("맛집 투어!"))
+print(len("12345"))
+print("""A
+B""")
+
+#실행결과
+# Apple은"사과를" 말합니다.
+#'Hello World'
+#"안녕 나는 철수라고 해."
+#6
+#5
+#A
+#B
