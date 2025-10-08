@@ -18,3 +18,12 @@ print(100000 != 200000) #같지않다
 #True
 #False
 #True
+
+#문자열까지 비교연산자로 비교 할 수 있으나 대소문자까지 일치해여한다.
+
+print("game"=="Game")
+print("game"!= "Game")
+
+#출력결과 
+#False
+#True
