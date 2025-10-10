@@ -41,3 +41,10 @@ preference = "dark"
 print("I love "+preference + favorite_food)
 
 #변수의 값을 변하게 할 수 있다 . 변수를 업데이트 하다.
+
+# 변수 업데이트 방식 
+#1
+num = 4
+num = 3
+
+#변수의 새로운 값을 할당하는 것으로 변수를 업데이트 할 수 있다.
