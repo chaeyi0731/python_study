@@ -67,3 +67,4 @@ burger_price += 500
 print(burger_name+"의 가격: ",burger_price)
 
 #변수 값만 변경해주면 된다 
+#이것은 동적 타이핑이고 정적 타이핑은 앞에 int 를 붙이면 된다
