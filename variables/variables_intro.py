@@ -62,3 +62,8 @@ burger_price = 5000
 print(burger_name+"의 가격: ",burger_price)
 
 print(burger_name + " 4개의 가격: ",burger_price*4)
+
+burger_price += 500
+print(burger_name+"의 가격: ",burger_price)
+
+#변수 값만 변경해주면 된다 
