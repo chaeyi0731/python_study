@@ -25,3 +25,8 @@ print(closing)
 print(closing)
 
 #깔끔히 읽기 좋은 코드
+
+favorite_food = "chocolate"
+print("I love" + favorite_food)
+
+#변수와 스트링 합침 가능 
