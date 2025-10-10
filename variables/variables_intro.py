@@ -56,3 +56,7 @@ num+= 1
 print(num)
 
 #결과는 4로 나온다 즉 num이었던 3에 1을 더하여 업데이트 된것 
+
+burger_name = "치즈 버거"
+burger_price = 5000
+print(burger_name+"의 가격: ",burger_price)
