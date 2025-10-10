@@ -30,3 +30,9 @@ favorite_food = "chocolate"
 print("I love" + favorite_food)
 
 #변수와 스트링 합침 가능 
+
+preference = "mint "
+
+print ("I love "+ preference + favorite_food)
+
+#스트링 + 변수 + 변수 가능하다
