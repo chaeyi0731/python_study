@@ -36,3 +36,8 @@ preference = "mint "
 print ("I love "+ preference + favorite_food)
 
 #스트링 + 변수 + 변수 가능하다
+
+preference = "dark"
+print("I love "+preference + favorite_food)
+
+#변수의 값을 변하게 할 수 있다 . 변수를 업데이트 하다.
