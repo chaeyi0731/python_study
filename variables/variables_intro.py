@@ -60,3 +60,5 @@ print(num)
 burger_name = "치즈 버거"
 burger_price = 5000
 print(burger_name+"의 가격: ",burger_price)
+
+print(burger_name + " 4개의 가격: ",burger_price*4)
