@@ -21,3 +21,12 @@ print("123"+str(456)) #123456
 
 phone_number= 821012345678
 print("전화번호:"+str(phone_number)) #전화번호:821012345678
+
+# f-string은 변수를 포함 할 수 있는 문자열 문자열 앞에 f를 붙이고 문자열 내 변수를 중괄호로 감싸서 넣는다. 암시적으로 문자열로 변환된다
+
+drink = "아메리카노"
+count=2
+sample_string=f"나는 오늘 {drink}를 {count} 잔 마셨다."
+print(sample_string)
+#나는 오늘 아메리카노를 2 잔 마셨다.
+# 하나의 f-string 에 여러개 변수를 넣을수 있다.
