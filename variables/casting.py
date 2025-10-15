@@ -4,9 +4,6 @@
 # ex
 
 
-print("123"+456)
- #TypeError: can only concatenate str (not "int") to str
-
 #int() 함수를 사용하여 실수형 또는 문자열을 정수형으로 변환하는 함수다
 
 print(int("123")+456)
