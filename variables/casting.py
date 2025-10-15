@@ -30,3 +30,6 @@ sample_string=f"나는 오늘 {drink}를 {count} 잔 마셨다."
 print(sample_string)
 #나는 오늘 아메리카노를 2 잔 마셨다.
 # 하나의 f-string 에 여러개 변수를 넣을수 있다.
+
+sample_string=f"나는 오늘 '{drink}'를 {count} 잔 마셨다."
+print(sample_string)
